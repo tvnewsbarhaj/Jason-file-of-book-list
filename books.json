@@ -30,31 +30,7 @@
       "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/itihas.pdf",
       "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/itihas%20ka%20dard.png"
     }
-   ],
-  "Urdu": [
     {
-      "title": "रश्के गुहर",
-      "author": "मोती बीए",
-      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/rashkeguhar.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/FP%20Raske%20Guhar.jpg"
-    }
-  ],
-  "Bhojpuri": [
-    {
-      "title": "सेमर के फूल",
-      "author": "मोती बीए",
-      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/semarkephool.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/ddd.JPG"
-    },
-    {
-      "title": "बन बन बोलेले कोयलिया",
-      "author": "मोती बीए",
-      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/BAN%20BAN%20BOLELE%20KOILIYA.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/BBB%20Front%20Page.jpg"
-    }
-  ],
-  "Other": [
-      {
       "title": "समाचार पत्रों की नजरों में मोती बीए",
       "author": "अंजनी कुमार उपाध्याय",
       "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/samachar.pdf",
@@ -96,8 +72,30 @@
       "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/aaskadiya.pdf",
       "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/aaska%20diya.png"
     }
-  ]
-
+   ],
+  "Urdu": [
+    {
+      "title": "रश्के गुहर",
+      "author": "मोती बीए",
+      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/rashkeguhar.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/FP%20Raske%20Guhar.jpg"
+    }
+  ],
+  "Bhojpuri": [
+    {
+      "title": "सेमर के फूल",
+      "author": "मोती बीए",
+      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/semarkephool.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/ddd.JPG"
+    },
+    {
+      "title": "बन बन बोलेले कोयलिया",
+      "author": "मोती बीए",
+      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/BAN%20BAN%20BOLELE%20KOILIYA.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/BBB%20Front%20Page.jpg"
+    }
+  ],
 }
+
 
 
