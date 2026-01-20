@@ -54,35 +54,29 @@
     }
   ],
   "Other": [
-    {
-      "title": "आपका मोती",
-      "author": "अंजनी कुमार उपाध्याय",
-      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/aapka_moti.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_aapka_moti.jpg"
-    },
-    {
+      {
       "title": "समाचार पत्रों की नजरों में मोती बीए",
       "author": "अंजनी कुमार उपाध्याय",
-      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/samachar_patra.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_samachar.jpg"
+      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/samachar.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/SAVE_20250806_173348.jpg"
     },
     {
       "title": "सम्पदा और महेन्द्र शास्त्री",
       "author": "अंजनी कुमार उपाध्याय",
-      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/sampada_mahendra.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_mahendra.jpg"
+      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/mahendrashastri.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/magendra%20shastri%20dfhjfhjf.jpg"
     },
     {
       "title": "सम्पदा और डॉ. परमानन्द उपाध्याय",
       "author": "अंजनी कुमार उपाध्याय",
-      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/sampada_parmanand.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_parmanand.jpg"
+      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/DR%20PARMANAND%20UPADHYAY%20BOOK.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/main%20photo.jpg"
     },
     {
       "title": "सम्पदा और जनार्दन पाण्डेय 'अनुरागी'",
       "author": "अंजनी कुमार उपाध्याय",
-      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/sampada_janardan.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_janardan.jpg"
+      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/anuragi.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/anuragi.jpg"
     },
     {
       "title": "सरयू से सागर तक",
@@ -94,15 +88,16 @@
       "title": "अभिव्यक्ति अनुभव की",
       "author": "मोनिका त्यागी राणा",
       "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/Abhiyktianubhav%20ki.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/Abhiykti%20anubhav%20ki.jpghttps://github.com/tvnewsbarhaj/IMAGE-/blob/main/Abhiykti%20anubhav%20ki.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/Abhiykti%20anubhav%20ki.jpg"
     },
     {
       "title": "आस का दीया",
       "author": "डॉ शारदा त्रिपाठी",
-      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/aas_ka_diya.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_aas.jpg"
+      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/aaskadiya.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/aaska%20diya.png"
     }
   ]
 
 }
+
 
