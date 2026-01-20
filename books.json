@@ -3,54 +3,48 @@
     {
       "title": "आत्मकथा मोती बीए भाग 01",
       "author": "मोती बीए",
-      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/aartmakatha_1.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_aartmakatha_1.jpg"
+      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/aatmakathap1.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/MOti%20BA%20Aatmkatha%2001.jpg"
     },
     {
       "title": "आत्मकथा मोती बीए भाग 02",
       "author": "मोती बीए",
       "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/aartmakatha_2.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_aartmakatha_2.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/MOti%20BA%20Aatmkatha%20Part%20II%2001.jpg"
     },
     {
-      "title": "समीधा",
+      "title": "समिधा",
       "author": "मोती बीए",
-      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/samidha.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_samidha.jpg"
+      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/SAMEEDHA.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/Samidha%20Page%2001.jpg"
     },
     {
-      "title": "माँझी की पुकार",
+      "title": "शेक्सपीयर के सानेट्स का हिंदी पद्यानुवाद",
       "author": "मोती बीए",
-      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/manjhi.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_manjhi.jpg"
+      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/shakes.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/Shakes%2001%20Shakespeare%20ke%20sonnet%20ka%20hindi%20padyanuwad.jpg"
     },
-    {
-      "title": "लतिका",
-      "author": "मोती बीए",
-      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/latika.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_latika.jpg"
-    }
-  ],
+   ],
   "Urdu": [
     {
       "title": "रश्के गुहर",
       "author": "मोती बीए",
-      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/rashke_guhar.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_rashke.jpg"
+      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/rashkeguhar.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/FP%20Raske%20Guhar.jpg"
     }
   ],
   "Bhojpuri": [
     {
       "title": "सेमर के फूल",
       "author": "मोती बीए",
-      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/semar_ke_phool.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_semar.jpg"
+      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/semarkephool.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/ddd.JPG"
     },
     {
       "title": "बन बन बोलेले कोयलिया",
       "author": "मोती बीए",
-      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/koyaliya.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_koyaliya.jpg"
+      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/BAN%20BAN%20BOLELE%20KOILIYA.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/BBB%20Front%20Page.jpg"
     }
   ],
   "History": [
@@ -111,4 +105,5 @@
       "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_aas.jpg"
     }
   ]
+
 }
