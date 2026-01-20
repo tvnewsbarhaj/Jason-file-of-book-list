@@ -29,7 +29,7 @@
       "author": "मोती बीए",
       "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/itihas.pdf",
       "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/itihas%20ka%20dard.png"
-    }
+    },
     {
       "title": "समाचार पत्रों की नजरों में मोती बीए",
       "author": "अंजनी कुमार उपाध्याय",
@@ -72,7 +72,7 @@
       "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/aaskadiya.pdf",
       "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/aaska%20diya.png"
     }
-   ],
+  ],
   "Urdu": [
     {
       "title": "रश्के गुहर",
@@ -94,8 +94,5 @@
       "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/BAN%20BAN%20BOLELE%20KOILIYA.pdf",
       "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/BBB%20Front%20Page.jpg"
     }
-  ],
+  ]
 }
-
-
-
