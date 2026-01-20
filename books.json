@@ -1,5 +1,5 @@
 {
-  "Hindi": [
+  "हिन्दी": [
     {
       "title": "आत्मकथा मोती बीए भाग 01",
       "author": "मोती बीए",
@@ -73,7 +73,7 @@
       "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/aaska%20diya.png"
     }
   ],
-  "Urdu": [
+  "उर्दू": [
     {
       "title": "रश्के गुहर",
       "author": "मोती बीए",
@@ -81,7 +81,7 @@
       "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/FP%20Raske%20Guhar.jpg"
     }
   ],
-  "Bhojpuri": [
+  "भोजपुरी": [
     {
       "title": "सेमर के फूल",
       "author": "मोती बीए",
@@ -96,3 +96,4 @@
     }
   ]
 }
+
