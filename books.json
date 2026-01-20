@@ -24,6 +24,12 @@
       "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/shakes.pdf",
       "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/Shakes%2001%20Shakespeare%20ke%20sonnet%20ka%20hindi%20padyanuwad.jpg"
     },
+    {
+      "title": "इतिहास का दर्द",
+      "author": "मोती बीए",
+      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/itihas.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/itihas%20ka%20dard.png"
+    }
    ],
   "Urdu": [
     {
@@ -45,14 +51,6 @@
       "author": "मोती बीए",
       "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/BAN%20BAN%20BOLELE%20KOILIYA.pdf",
       "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/BBB%20Front%20Page.jpg"
-    }
-  ],
-  "History": [
-    {
-      "title": "इतिहास का दर्द",
-      "author": "मोती बीए",
-      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/itihas_ka_dard.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_itihas.jpg"
     }
   ],
   "Other": [
@@ -89,14 +87,14 @@
     {
       "title": "सरयू से सागर तक",
       "author": "अंजनी कुमार उपाध्याय",
-      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/saryu_se_sagar.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_saryu.jpg"
+      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/sarayuse.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/SAVE_20250806_173336.jpg"
     },
     {
       "title": "अभिव्यक्ति अनुभव की",
       "author": "मोनिका त्यागी राणा",
-      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/abhivyakti.pdf",
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_abhivyakti.jpg"
+      "pdfUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/pdf-asset-/main/Abhiyktianubhav%20ki.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/tvnewsbarhaj/IMAGE-/main/Abhiykti%20anubhav%20ki.jpghttps://github.com/tvnewsbarhaj/IMAGE-/blob/main/Abhiykti%20anubhav%20ki.jpg"
     },
     {
       "title": "आस का दीया",
@@ -107,3 +105,4 @@
   ]
 
 }
+
