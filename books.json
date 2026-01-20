@@ -1,0 +1,114 @@
+{
+  "Hindi": [
+    {
+      "title": "आत्मकथा मोती बीए भाग 01",
+      "author": "मोती बीए",
+      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/aartmakatha_1.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_aartmakatha_1.jpg"
+    },
+    {
+      "title": "आत्मकथा मोती बीए भाग 02",
+      "author": "मोती बीए",
+      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/aartmakatha_2.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_aartmakatha_2.jpg"
+    },
+    {
+      "title": "समीधा",
+      "author": "मोती बीए",
+      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/samidha.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_samidha.jpg"
+    },
+    {
+      "title": "माँझी की पुकार",
+      "author": "मोती बीए",
+      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/manjhi.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_manjhi.jpg"
+    },
+    {
+      "title": "लतिका",
+      "author": "मोती बीए",
+      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/latika.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_latika.jpg"
+    }
+  ],
+  "Urdu": [
+    {
+      "title": "रश्के गुहर",
+      "author": "मोती बीए",
+      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/rashke_guhar.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_rashke.jpg"
+    }
+  ],
+  "Bhojpuri": [
+    {
+      "title": "सेमर के फूल",
+      "author": "मोती बीए",
+      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/semar_ke_phool.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_semar.jpg"
+    },
+    {
+      "title": "बन बन बोलेले कोयलिया",
+      "author": "मोती बीए",
+      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/koyaliya.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_koyaliya.jpg"
+    }
+  ],
+  "History": [
+    {
+      "title": "इतिहास का दर्द",
+      "author": "मोती बीए",
+      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/itihas_ka_dard.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_itihas.jpg"
+    }
+  ],
+  "Other": [
+    {
+      "title": "आपका मोती",
+      "author": "अंजनी कुमार उपाध्याय",
+      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/aapka_moti.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_aapka_moti.jpg"
+    },
+    {
+      "title": "समाचार पत्रों की नजरों में मोती बीए",
+      "author": "अंजनी कुमार उपाध्याय",
+      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/samachar_patra.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_samachar.jpg"
+    },
+    {
+      "title": "सम्पदा और महेन्द्र शास्त्री",
+      "author": "अंजनी कुमार उपाध्याय",
+      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/sampada_mahendra.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_mahendra.jpg"
+    },
+    {
+      "title": "सम्पदा और डॉ. परमानन्द उपाध्याय",
+      "author": "अंजनी कुमार उपाध्याय",
+      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/sampada_parmanand.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_parmanand.jpg"
+    },
+    {
+      "title": "सम्पदा और जनार्दन पाण्डेय 'अनुरागी'",
+      "author": "अंजनी कुमार उपाध्याय",
+      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/sampada_janardan.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_janardan.jpg"
+    },
+    {
+      "title": "सरयू से सागर तक",
+      "author": "अंजनी कुमार उपाध्याय",
+      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/saryu_se_sagar.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_saryu.jpg"
+    },
+    {
+      "title": "अभिव्यक्ति अनुभव की",
+      "author": "मोनिका त्यागी राणा",
+      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/abhivyakti.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_abhivyakti.jpg"
+    },
+    {
+      "title": "आस का दीया",
+      "author": "डॉ शारदा त्रिपाठी",
+      "pdfUrl": "https://raw.githubusercontent.com/USER/REPO/main/aas_ka_diya.pdf",
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/cover_aas.jpg"
+    }
+  ]
+}
